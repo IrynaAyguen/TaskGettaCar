@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.gettacar.tests.SelectCarPositiveTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-21T23:15:10" hostname="LAPTOP-ND6M733L" time="4.285">
+  <properties/>
+  <testcase name="selectCarPositiveTest" classname="com.telran.gettacar.tests.SelectCarPositiveTest" time="4.285"/>
+  <system-out><![CDATA[price = 25195.0
+rezult = High
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 3898
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1642806908.591][WARNING]: This version of ChromeDriver has not been tested with Chrome version 97.
+Jan 22, 2022 12:15:08 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
