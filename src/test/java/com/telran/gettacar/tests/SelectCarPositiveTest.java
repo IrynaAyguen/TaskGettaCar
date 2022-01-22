@@ -20,7 +20,7 @@ public class SelectCarPositiveTest extends TestBase {
         String priceS= priceStr.substring(0,indexOfOR-1);
         double price = Double.parseDouble(priceS.replace(",",""));
         String highOrLow = getResult(price);
-        System.out.println("price = "+ price);
+        System.out.println("price of the car = "+ price);
         System.out.println("rezult = "+ highOrLow);
     }
 
